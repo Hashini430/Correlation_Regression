@@ -84,5 +84,6 @@ The Regression Y on X is Y = -0.664 ( X - 32.000) + 38.000
 <img width="576" height="432" alt="OutputGraph" src="https://github.com/user-attachments/assets/5e2413ef-0672-40b7-b477-ca3d93ee7264" />
 ## Result :
 Thus the program is implemented and Executed Successfully
-# Link
+
+## Link
 https://github.com/Hashini430/Correlation_Regression
